@@ -42,7 +42,10 @@
       </viewingparameter>
       <userdata>
         <capturedatetime>2020-10-13T19:23:45</capturedatetime>
-        <tags>10-05</tags>
+        <tags></tags>
+        <title>Nespresso</title>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -81,7 +84,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/Render/10-01/present-high-es.tif</filename>
+        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\10-05\Shot-Enter-Camera.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -89,8 +92,8 @@
       <viewingparameter>
         <pan>
           <start>0</start>
-          <min>-132.79</min>
-          <max>128.78</max>
+          <min>0</min>
+          <max>360</max>
         </pan>
         <tilt>
           <start>0</start>
@@ -98,9 +101,9 @@
           <max>90</max>
         </tilt>
         <fov>
-          <start>70</start>
+          <start>58</start>
           <minunit>pixels</minunit>
-          <minpixels>2</minpixels>
+          <minpixels>1</minpixels>
           <max>120</max>
           <maxfovstereographic>270</maxfovstereographic>
           <maxfovfisheye>360</maxfovfisheye>
@@ -114,17 +117,21 @@
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2020-10-14T17:06:37</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2020-10-07T13:44:47</capturedatetime>
         <tags>10-01</tags>
+        <title>Haupt Raum</title>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-1.01</pan>
-            <tilt>4.03</tilt>
+            <pan>-1.37</pan>
+            <tilt>-0.13</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -147,8 +154,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-357.46</pan>
-            <tilt>-16.34</tilt>
+            <pan>-2.38001</pan>
+            <tilt>-15.81</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -171,8 +178,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-23.13</pan>
-            <tilt>0.38</tilt>
+            <pan>-20.17</pan>
+            <tilt>-0.49</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -186,6 +193,30 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node2}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-183.62</pan>
+            <tilt>-10.82</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point04</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node9}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -242,6 +273,9 @@
       <userdata>
         <capturedatetime>2020-10-14T10:27:31</capturedatetime>
         <tags>10-01</tags>
+        <title>Nespresso - VERTUO</title>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -295,8 +329,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.36</pan>
-            <tilt>-18.83</tilt>
+            <pan>-0.27</pan>
+            <tilt>-19.48</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -319,8 +353,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-348.65</pan>
-            <tilt>-16</tilt>
+            <pan>-348.57</pan>
+            <tilt>-14.82</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -479,6 +513,9 @@
       <userdata>
         <capturedatetime>2020-10-06T19:44:49</capturedatetime>
         <tags>10-01</tags>
+        <title>Sustainable</title>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -602,6 +639,9 @@
       <userdata>
         <capturedatetime>2020-10-05T14:19:02</capturedatetime>
         <tags>10-01</tags>
+        <title>B2B Area</title>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
@@ -703,6 +743,9 @@
       <userdata>
         <capturedatetime>2020-10-06T10:57:12</capturedatetime>
         <tags>10-01</tags>
+        <title>Sustainable 2</title>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>

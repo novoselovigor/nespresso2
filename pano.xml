@@ -14,7 +14,7 @@
       <min pan="-85.47" tilt="-90" fovpixel="2"/>
       <max fov="120" fovstereographic="270" pan="94.37" tilt="90" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata datetime="" comment="" copyright="" nodeid="node9" source="" tags="10-05" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title=""/>
+    <userdata datetime="" comment="" copyright="" nodeid="node9" source="" tags="" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title="Nespresso"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label bordercolor="0x000000" width="180" height="20" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" border="0" textalpha="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
@@ -26,25 +26,27 @@
     <control lockedkeyboardzoom="0" contextfullscreen="1" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" speedwheel="1" hideabout="1" simulatemass="1" lockedkeyboard="0" rubberband="0" lockedwheel="0" invertcontrol="1" contextprojections="0" invertwheel="0"/>
   </panorama>
   <panorama hideabout="1" id="node8">
-    <input width="1024" levelbias="0.400" height="1024" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0">
+    <input width="2048" levelbias="0.400" height="2048" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelbiashidpi="1.000" leveltilesize="510" levelingpitch="0">
+      <level width="2048" height="2048" preload="0" predecode="0"/>
       <level width="1024" height="1024" preload="0" predecode="0"/>
       <level width="512" height="512" preload="0" predecode="0"/>
       <level width="256" height="256" preload="1" predecode="1"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="70" projection="4" pan="0" tilt="0"/>
+      <start fov="58" projection="4" pan="0" tilt="0"/>
       <flyin fov="170" projection="9" pan="0" tilt="-90"/>
-      <min pan="-132.79" tilt="-90" fovpixel="2"/>
-      <max fov="120" fovstereographic="270" pan="128.78" tilt="90" scaletofit="1" fovfisheye="360"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata datetime="" comment="" copyright="" nodeid="node8" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title=""/>
+    <userdata datetime="" comment="" copyright="" nodeid="node8" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title="Haupt Raum"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label bordercolor="0x000000" width="180" height="20" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" border="0" textalpha="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
-      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="" pan="-1.01" tilt="4.03" description="" title=""/>
-      <hotspot url="{node10}" skinid="ht_node" id="Point02" target="" pan="-357.46" tilt="-16.34" description="" title=""/>
-      <hotspot url="{node2}" skinid="ht_node" id="Point03" target="" pan="-23.13" tilt="0.38" description="" title=""/>
+      <hotspot url="{node5}" skinid="ht_node" id="Point01" target="" pan="-1.37" tilt="-0.13" description="" title=""/>
+      <hotspot url="{node10}" skinid="ht_node" id="Point02" target="" pan="-2.38001" tilt="-15.81" description="" title=""/>
+      <hotspot url="{node2}" skinid="ht_node" id="Point03" target="" pan="-20.17" tilt="-0.49" description="" title=""/>
+      <hotspot url="{node9}" skinid="ht_node" id="Point04" target="" pan="-183.62" tilt="-10.82" description="" title=""/>
     </hotspots>
     <media/>
     <transition softedge="0" zoomout="0" zoomafteroutfov="40" zoomafterinfov="110" zoomoutpause="1" zoomfov="40" zoomin="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="0.3" type="crossdissolve"/>
@@ -64,14 +66,14 @@
       <min pan="0" tilt="-90" fovpixel="2"/>
       <max fov="120" fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata datetime="" comment="" copyright="" nodeid="node10" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title=""/>
+    <userdata datetime="" comment="" copyright="" nodeid="node10" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title="Nespresso - VERTUO"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label bordercolor="0x000000" width="180" height="20" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" border="0" textalpha="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
       <hotspot url="{node5}" skinid="ht_node" id="Point01" target="" pan="-2.81" tilt="21.04" description="" title=""/>
       <hotspot url="{node2}" skinid="ht_node" id="Point02" target="" pan="-27.14" tilt="14.34" description="" title=""/>
-      <hotspot url="{node8}" skinid="ht_node" id="Point03" target="" pan="-0.36" tilt="-18.83" description="" title=""/>
-      <hotspot url="" skinid="PolyTass" id="PolyTass" target="_blank" pan="-348.65" tilt="-16" description="" title=""/>
+      <hotspot url="{node8}" skinid="ht_node" id="Point03" target="" pan="-0.27" tilt="-19.48" description="" title=""/>
+      <hotspot url="" skinid="PolyTass" id="PolyTass" target="_blank" pan="-348.57" tilt="-14.82" description="" title=""/>
       <hotspot url="" skinid="PolyKaraf" id="PolyKaraf" target="_blank" pan="-11.73" tilt="-14.33" description="" title=""/>
     </hotspots>
     <media>
@@ -99,7 +101,7 @@
       <min pan="0" tilt="-90" fovpixel="1"/>
       <max fov="121" fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata datetime="" comment="" copyright="" nodeid="node5" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title=""/>
+    <userdata datetime="" comment="" copyright="" nodeid="node5" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title="Sustainable"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label bordercolor="0x000000" width="180" height="20" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" border="0" textalpha="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
@@ -125,7 +127,7 @@
       <min pan="0" tilt="-90" fovpixel="1"/>
       <max fov="121" fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata datetime="" comment="" copyright="" nodeid="node2" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title=""/>
+    <userdata datetime="" comment="" copyright="" nodeid="node2" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title="B2B Area"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label bordercolor="0x000000" width="180" height="20" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" border="0" textalpha="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
@@ -150,7 +152,7 @@
       <min pan="0" tilt="-90" fovpixel="1"/>
       <max fov="121" fovstereographic="270" pan="360" tilt="90" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata datetime="" comment="" copyright="" nodeid="node1" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title=""/>
+    <userdata datetime="" comment="" copyright="" nodeid="node1" source="" tags="10-01" latitude="" info="" heading="0" customnodeid="" author="" description="" longitude="" title="Sustainable 2"/>
     <hotspots width="180" height="20" wordwrap="1">
       <label bordercolor="0x000000" width="180" height="20" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" border="0" textalpha="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
