@@ -202,22 +202,7 @@
     </panorama>
     <panorama>
       <input>
-        <patch>
-          <imagepatch>
-            <pan>-0.45</pan>
-            <tilt>-3.73</tilt>
-            <fov>34.26</fov>
-            <roll>0</roll>
-            <aspectratio>1</aspectratio>
-            <applyafterlevelling>1</applyafterlevelling>
-            <locked>1</locked>
-            <quality>90</quality>
-            <filename>../nespresso/patches/Closeup-hq2_patch.psd</filename>
-            <type>image</type>
-            <blurintensity>10</blurintensity>
-            <lastmodified>2020-10-14T14:26:40</lastmodified>
-          </imagepatch>
-        </patch>
+        <patch/>
         <type>auto</type>
         <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\10-05\Closeup-hq2.jpg</filename>
         <videotype>equi</videotype>
@@ -401,7 +386,7 @@
           </videorect>
           <type>video</type>
           <id>Tass</id>
-          <filename>videos/_10-12-Tasse-Animation-1.mp4</filename>
+          <filename>videos/1012T.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -413,9 +398,8 @@
           <level>1</level>
           <loop>-1</loop>
           <copyfile>1</copyfile>
-          <clickmode>none</clickmode>
+          <clickmode>playstop</clickmode>
           <handcursor>0</handcursor>
-          <previewfile>videos/_10-12-Karaffee-Animation-1_preview.jpg</previewfile>
         </sound>
         <sound>
           <position>
@@ -433,7 +417,7 @@
           </videorect>
           <type>video</type>
           <id>Karaf</id>
-          <filename>videos/_10-12-Karaffee-Animation-1.mp4</filename>
+          <filename>videos/1012K.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -447,7 +431,6 @@
           <copyfile>0</copyfile>
           <clickmode>none</clickmode>
           <handcursor>0</handcursor>
-          <previewfile>videos/_10-12-Karaffee-Animation-1_preview.jpg</previewfile>
         </sound>
       </sounds>
       <id>node10</id>
@@ -850,9 +833,6 @@
         <skinconfiguration/>
         <skintablesconfiguration/>
         <skincolorsconfiguration/>
-        <assets>../nespresso/videos</assets>
-        <assets>videos/_10-12-Karaffee-Animation-1.mp4</assets>
-        <assets>videos/_10-12-Tasse-Animation-1.mp4</assets>
       </htmlcss>
       <htmlcss>
         <html>

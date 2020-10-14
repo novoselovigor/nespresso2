@@ -75,11 +75,11 @@
       <hotspot url="" skinid="PolyKaraf" id="PolyKaraf" target="_blank" pan="-11.73" tilt="-14.33" description="" title=""/>
     </hotspots>
     <media>
-      <video level="1.000" fov="34.260" id="Tass" rotx="0.000" tiltsize="10.000" nodechangekeep="0" loop="-1" stretch="1.000" roty="0.000" pansize="10.000" pan="-0.450" tilt="-3.730" field="90.000" clickmode="2" rotz="0.000" height="496" handcursor="0" mode="1" ambientlevel="0.000" poster="media/_10-12-Karaffee-Animation-1_preview.jpg" startmutedmobile="1" width="496">
-        <source url="media/_10-12-Tasse-Animation-1.mp4"/>
+      <video level="1.000" fov="34.260" id="Tass" rotx="0.000" tiltsize="10.000" nodechangekeep="0" loop="-1" stretch="1.000" roty="0.000" pansize="10.000" pan="-0.450" tilt="-3.730" field="90.000" clickmode="2" rotz="0.000" height="496" handcursor="0" mode="1" ambientlevel="0.000" startmutedmobile="1" width="496">
+        <source url="media/1012T.mp4"/>
       </video>
-      <video level="1.000" fov="34.260" id="Karaf" rotx="0.000" tiltsize="10.000" nodechangekeep="0" loop="-1" stretch="1.000" roty="0.000" pansize="10.000" pan="-0.450" tilt="-3.730" field="90.000" clickmode="0" rotz="0.000" height="496" handcursor="0" mode="1" ambientlevel="0.000" poster="videos/_10-12-Karaffee-Animation-1_preview.jpg" startmutedmobile="1" width="496">
-        <source url="videos/_10-12-Karaffee-Animation-1.mp4"/>
+      <video level="1.000" fov="34.260" id="Karaf" rotx="0.000" tiltsize="10.000" nodechangekeep="0" loop="-1" stretch="1.000" roty="0.000" pansize="10.000" pan="-0.450" tilt="-3.730" field="90.000" clickmode="0" rotz="0.000" height="496" handcursor="0" mode="1" ambientlevel="0.000" startmutedmobile="1" width="496">
+        <source url="videos/1012K.mp4"/>
       </video>
     </media>
     <transition softedge="0" zoomout="0" zoomafteroutfov="40" zoomafterinfov="110" zoomoutpause="1" zoomfov="40" zoomin="2" enabled="1" zoomspeed="2" blendcolor="0x000000" blendtime="0.3" type="crossdissolve"/>
