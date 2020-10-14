@@ -44,7 +44,7 @@
       <label bordercolor="0x000000" width="180" height="20" wordwrap="1" textcolor="0xffffff" background="0" backgroundalpha="1" borderradius="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" border="0" textalpha="1"/>
       <polystyle bordercolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff"/>
       <hotspot url="{node5}" skinid="ht_node" id="Point01" target="" pan="-1.37" tilt="-0.13" description="" title=""/>
-      <hotspot url="{node10}" skinid="ht_node" id="Point02" target="" pan="-2.38001" tilt="-15.81" description="" title=""/>
+      <hotspot url="{node10}" skinid="ht_node" id="Point02" target="" pan="-358.72" tilt="-13.24" description="" title=""/>
       <hotspot url="{node2}" skinid="ht_node" id="Point03" target="" pan="-20.17" tilt="-0.49" description="" title=""/>
       <hotspot url="{node9}" skinid="ht_node" id="Point04" target="" pan="-183.62" tilt="-10.82" description="" title=""/>
     </hotspots>
