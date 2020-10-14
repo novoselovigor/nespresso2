@@ -401,7 +401,7 @@
           </videorect>
           <type>video</type>
           <id>Tass</id>
-          <filename>videos/_10-12-Tasse-Animation-1.m4v</filename>
+          <filename>videos/_10-12-Tasse-Animation-1.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -415,7 +415,7 @@
           <copyfile>1</copyfile>
           <clickmode>none</clickmode>
           <handcursor>0</handcursor>
-          <previewfile>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/PSD/VIDEOOUT/_10-12-Karaffee-Animation-1_preview.jpg</previewfile>
+          <previewfile>videos/_10-12-Karaffee-Animation-1_preview.jpg</previewfile>
         </sound>
         <sound>
           <position>
@@ -433,7 +433,7 @@
           </videorect>
           <type>video</type>
           <id>Karaf</id>
-          <filename>videos/_10-12-Karaffee-Animation-1.m4v</filename>
+          <filename>videos/_10-12-Karaffee-Animation-1.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -444,10 +444,10 @@
           <startmutedmobile>1</startmutedmobile>
           <level>1</level>
           <loop>-1</loop>
-          <copyfile>1</copyfile>
+          <copyfile>0</copyfile>
           <clickmode>none</clickmode>
           <handcursor>0</handcursor>
-          <previewfile>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/PSD/VIDEOOUT/_10-12-Karaffee-Animation-1_preview.jpg</previewfile>
+          <previewfile>videos/_10-12-Karaffee-Animation-1_preview.jpg</previewfile>
         </sound>
       </sounds>
       <id>node10</id>
@@ -850,6 +850,9 @@
         <skinconfiguration/>
         <skintablesconfiguration/>
         <skincolorsconfiguration/>
+        <assets>../nespresso/videos</assets>
+        <assets>videos/_10-12-Karaffee-Animation-1.mp4</assets>
+        <assets>videos/_10-12-Tasse-Animation-1.mp4</assets>
       </htmlcss>
       <htmlcss>
         <html>
