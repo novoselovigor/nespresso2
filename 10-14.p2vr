@@ -398,7 +398,7 @@
           <level>1</level>
           <loop>-1</loop>
           <copyfile>1</copyfile>
-          <clickmode>playstop</clickmode>
+          <clickmode>none</clickmode>
           <handcursor>0</handcursor>
         </sound>
         <sound>
