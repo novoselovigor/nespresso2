@@ -386,7 +386,7 @@
           </videorect>
           <type>video</type>
           <id>Tass</id>
-          <filename>videos/1012T.mp4</filename>
+          <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/PSD/VIDEOOUT/_10-12-Tasse-Animation-1.m4v</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -417,7 +417,7 @@
           </videorect>
           <type>video</type>
           <id>Karaf</id>
-          <filename>videos/1012K.mp4</filename>
+          <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/PSD/VIDEOOUT/_10-12-Karaffee-Animation-1.m4v</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -761,7 +761,7 @@
         <sequence/>
       </animation>
     </panorama>
-    <start>node9</start>
+    <start>node10</start>
   </tour>
   <panorama>
     <id>master</id>
