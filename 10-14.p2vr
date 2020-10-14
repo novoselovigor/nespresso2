@@ -428,7 +428,7 @@
           <startmutedmobile>1</startmutedmobile>
           <level>1</level>
           <loop>-1</loop>
-          <copyfile>0</copyfile>
+          <copyfile>1</copyfile>
           <clickmode>none</clickmode>
           <handcursor>0</handcursor>
         </sound>
