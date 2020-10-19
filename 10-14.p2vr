@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.10" rev="18007">
+<pano2vrconfig rev="18007" version="6.1.10">
   <tour>
     <panorama>
       <input>
@@ -42,7 +42,7 @@
       </viewingparameter>
       <userdata>
         <capturedatetime>2020-10-13T19:23:45</capturedatetime>
-        <tags></tags>
+        <tags/>
         <title>Nespresso</title>
         <altitude>-10000</altitude>
         <usealtitude>0</usealtitude>
@@ -130,32 +130,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-1.37</pan>
-            <tilt>-0.13</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node5}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-2.38001</pan>
-            <tilt>-15.81</tilt>
+            <pan>-358.72</pan>
+            <tilt>-13.24</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -224,6 +200,30 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-1.06</pan>
+            <tilt>0.08</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node11}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -273,36 +273,12 @@
       <userdata>
         <capturedatetime>2020-10-14T10:27:31</capturedatetime>
         <tags>10-01</tags>
-        <title>Nespresso - VERTUO</title>
+        <title>Vertuo Details</title>
         <altitude>-10000</altitude>
         <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
-        <hotspot>
-          <position>
-            <pan>-2.81</pan>
-            <tilt>21.04</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node5}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
         <hotspot>
           <position>
             <pan>-27.14</pan>
@@ -475,134 +451,7 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/Render/10-01/enter.tif</filename>
-        <videotype>equi</videotype>
-        <levelpitch>0</levelpitch>
-        <levelroll>0</levelroll>
-      </input>
-      <viewingparameter>
-        <pan>
-          <start>0</start>
-          <min>0</min>
-          <max>360</max>
-        </pan>
-        <tilt>
-          <start>0</start>
-          <min>-90</min>
-          <max>90</max>
-        </tilt>
-        <fov>
-          <start>42</start>
-          <minunit>pixels</minunit>
-          <minpixels>1</minpixels>
-          <max>121</max>
-          <maxfovstereographic>270</maxfovstereographic>
-          <maxfovfisheye>360</maxfovfisheye>
-        </fov>
-        <flyinstart>
-          <pan>0</pan>
-          <tilt>-90</tilt>
-          <fov>170</fov>
-        </flyinstart>
-        <pannorth>0</pannorth>
-        <scaletofit>1</scaletofit>
-        <projection>rectilinear</projection>
-        <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2020-10-07T11:14:42</defaultviewtimestamp>
-      </viewingparameter>
-      <userdata>
-        <capturedatetime>2020-10-06T19:44:49</capturedatetime>
-        <tags>10-01</tags>
-        <title>Sustainable</title>
-        <altitude>-10000</altitude>
-        <usealtitude>0</usealtitude>
-      </userdata>
-      <floorplans/>
-      <hotspots>
-        <hotspot>
-          <position>
-            <pan>-176.73</pan>
-            <tilt>-1.2</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-9.2</pan>
-            <tilt>-5.07</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point03</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-311.5</pan>
-            <tilt>-1.19</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node8}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-      </hotspots>
-      <output/>
-      <streetview/>
-      <streetviewproject/>
-      <sounds/>
-      <id>node5</id>
-    </panorama>
-    <panorama>
-      <input>
-        <patch/>
-        <type>auto</type>
-        <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/Render/10-01/00_i1.tif</filename>
+        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\10-18\10-07-b2b_i2.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -639,36 +488,12 @@
       <userdata>
         <capturedatetime>2020-10-05T14:19:02</capturedatetime>
         <tags>10-01</tags>
-        <title>B2B Area</title>
+        <title>B2B</title>
         <altitude>-10000</altitude>
         <usealtitude>0</usealtitude>
       </userdata>
       <floorplans/>
       <hotspots>
-        <hotspot>
-          <position>
-            <pan>-185.44</pan>
-            <tilt>-3.66</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
         <hotspot>
           <position>
             <pan>-157.81</pan>
@@ -693,66 +518,10 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
-      </hotspots>
-      <output/>
-      <streetview/>
-      <streetviewproject/>
-      <sounds/>
-      <id>node2</id>
-    </panorama>
-    <panorama>
-      <id>node1</id>
-      <input>
-        <patch/>
-        <type>auto</type>
-        <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/Render/10-01/Recycke.tif</filename>
-        <videotype>equi</videotype>
-        <levelpitch>0</levelpitch>
-        <levelroll>0</levelroll>
-      </input>
-      <viewingparameter>
-        <pan>
-          <start>-4.69</start>
-          <min>0</min>
-          <max>360</max>
-        </pan>
-        <tilt>
-          <start>0.49</start>
-          <min>-90</min>
-          <max>90</max>
-        </tilt>
-        <fov>
-          <start>67.3</start>
-          <minunit>pixels</minunit>
-          <minpixels>1</minpixels>
-          <max>121</max>
-          <maxfovstereographic>270</maxfovstereographic>
-          <maxfovfisheye>360</maxfovfisheye>
-        </fov>
-        <flyinstart>
-          <pan>0</pan>
-          <tilt>-90</tilt>
-          <fov>170</fov>
-        </flyinstart>
-        <pannorth>0</pannorth>
-        <scaletofit>1</scaletofit>
-        <projection>rectilinear</projection>
-        <flyinprojection>stereo</flyinprojection>
-        <defaultviewtimestamp>2020-10-06T13:58:53</defaultviewtimestamp>
-      </viewingparameter>
-      <userdata>
-        <capturedatetime>2020-10-06T10:57:12</capturedatetime>
-        <tags>10-01</tags>
-        <title>Sustainable 2</title>
-        <altitude>-10000</altitude>
-        <usealtitude>0</usealtitude>
-      </userdata>
-      <floorplans/>
-      <hotspots>
         <hotspot>
           <position>
-            <pan>-181.3</pan>
-            <tilt>-3.48</tilt>
+            <pan>-181.55</pan>
+            <tilt>-3.35</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -762,10 +531,9 @@
           </next>
           <polygon/>
           <type>point</type>
-          <id>Point02</id>
+          <id>Point01</id>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node2}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -773,10 +541,58 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds/>
+      <id>node2</id>
+    </panorama>
+    <start>node9</start>
+    <panorama>
+      <input>
+        <patch>
+          <imagepatch>
+            <pan>-6.07</pan>
+            <tilt>-12.17</tilt>
+            <fov>44.73</fov>
+            <roll>0</roll>
+            <aspectratio>1</aspectratio>
+            <applyafterlevelling>0</applyafterlevelling>
+            <locked>1</locked>
+            <quality>90</quality>
+            <filename>patches/rec2_patch_1.psd</filename>
+            <type>image</type>
+            <blurintensity>10</blurintensity>
+            <lastmodified>2020-10-18T20:10:40</lastmodified>
+          </imagepatch>
+        </patch>
+        <type>auto</type>
+        <filename>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\Render\10-18\10-07-rec.jpg</filename>
+        <videotype>equi</videotype>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>0</pannorth>
+      </viewingparameter>
+      <userdata>
+        <capturedatetime>2020-10-17T07:50:07</capturedatetime>
+        <tags>10-05</tags>
+        <title>Nachhaltigkeit</title>
+        <altitude>-10000</altitude>
+        <usealtitude>0</usealtitude>
+      </userdata>
+      <floorplans/>
+      <hotspots>
         <hotspot>
           <position>
-            <pan>-297.76</pan>
-            <tilt>-0.75</tilt>
+            <pan>-310.34</pan>
+            <tilt>-0.34</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -797,16 +613,69 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-175.75</pan>
+            <tilt>-2.27</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node2}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
-      <sounds/>
-      <animation>
-        <sequence/>
-      </animation>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-6.07</pan>
+            <tilt>-12.17</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>44.73</fov>
+            <stretch>100</stretch>
+            <dimx>1088</dimx>
+            <dimy>1088</dimy>
+          </videorect>
+          <type>video</type>
+          <id>Element01</id>
+          <filename>C:/Users/novoselov/Videos/recybin.m4v</filename>
+          <mode>1</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>1</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>1</startmutedmobile>
+          <level>1</level>
+          <loop>-1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>playstop</clickmode>
+          <handcursor>0</handcursor>
+        </sound>
+      </sounds>
+      <id>node11</id>
     </panorama>
-    <start>node9</start>
   </tour>
   <panorama>
     <id>master</id>
