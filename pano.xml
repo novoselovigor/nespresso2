@@ -70,10 +70,11 @@
     <hotspots width="180" wordwrap="1" height="20">
       <label textalpha="1" width="180" background="0" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" enabled="1" border="0" height="20" textcolor="0xffffff"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
-      <hotspot skinid="ht_node" title="" id="Point02" pan="-27.14" target="" tilt="14.34" description="" url="{node2}"/>
+      <hotspot skinid="ht_node" title="" id="Point02" pan="-27.05" target="" tilt="12.82" description="" url="{node2}"/>
       <hotspot skinid="ht_node" title="" id="Point03" pan="-0.27" target="" tilt="-19.48" description="" url="{node8}"/>
       <hotspot skinid="PolyTass" title="" id="PolyTass" pan="-348.57" target="_blank" tilt="-14.82" description="" url=""/>
       <hotspot skinid="PolyKaraf" title="" id="PolyKaraf" pan="-11.73" target="_blank" tilt="-14.33" description="" url=""/>
+      <hotspot skinid="ht_node" title="" id="Point01" pan="-2.49" target="" tilt="15.64" description="" url="{node2}"/>
     </hotspots>
     <media>
       <video roty="0.000" clickmode="0" width="496" ambientlevel="0.000" field="90.000" fov="34.260" rotz="0.000" startmutedmobile="1" poster="media/10-12-Tasse-Animation_preview.jpg" tiltsize="10.000" loop="-1" pan="-0.450" tilt="-3.730" handcursor="0" id="Tass" mode="1" rotx="0.000" pansize="10.000" height="496" stretch="1.000" nodechangekeep="0" level="1.000">
@@ -106,7 +107,7 @@
       <label textalpha="1" width="180" background="0" backgroundcolor="0xffffff" backgroundalpha="1" bordercolor="0x000000" borderalpha="1" borderradius="1" wordwrap="1" enabled="1" border="0" height="20" textcolor="0xffffff"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" borderalpha="1" mode="0"/>
       <hotspot skinid="ht_node" title="" id="Point02" pan="-157.81" target="" tilt="-2.14" description="" url="{node10}"/>
-      <hotspot skinid="ht_node" title="" id="Point01" pan="-181.55" target="" tilt="-3.35" description="" url=""/>
+      <hotspot skinid="ht_node" title="" id="Point01" pan="-181.55" target="" tilt="-3.35" description="" url="{node11}"/>
     </hotspots>
     <media/>
     <transition zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="0.3" zoomoutpause="1" type="crossdissolve" enabled="1" zoomfov="40" zoomafteroutfov="40" zoomafterinfov="110" zoomin="2"/>

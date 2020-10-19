@@ -281,8 +281,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-27.14</pan>
-            <tilt>14.34</tilt>
+            <pan>-27.05</pan>
+            <tilt>12.82</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -368,6 +368,30 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <skinid>PolyKaraf</skinid>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-2.49</pan>
+            <tilt>15.64</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node2}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -534,6 +558,7 @@
           <id>Point01</id>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>{node11}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -658,7 +683,7 @@
           </videorect>
           <type>video</type>
           <id>Element01</id>
-          <filename>C:/Users/novoselov/Videos/recybin.m4v</filename>
+          <filename>C:/Users/novoselov/Desktop/recyclevideo 2_1a.mp4</filename>
           <mode>1</mode>
           <nodechangekeep>0</nodechangekeep>
           <locked>1</locked>
@@ -671,7 +696,7 @@
           <loop>-1</loop>
           <copyfile>1</copyfile>
           <clickmode>playstop</clickmode>
-          <handcursor>0</handcursor>
+          <handcursor>1</handcursor>
         </sound>
       </sounds>
       <id>node11</id>
