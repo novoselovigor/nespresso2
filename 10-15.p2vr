@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.10" rev="18007">
+<pano2vrconfig rev="18007" version="6.1.10">
   <tour>
     <panorama>
       <input>
@@ -239,7 +239,22 @@
     </panorama>
     <panorama>
       <input>
-        <patch/>
+        <patch>
+          <imagepatch>
+            <pan>-0.45</pan>
+            <tilt>-3.73</tilt>
+            <fov>34.26</fov>
+            <roll>0</roll>
+            <aspectratio>1</aspectratio>
+            <applyafterlevelling>0</applyafterlevelling>
+            <locked>0</locked>
+            <quality>90</quality>
+            <filename>patches/Closeup-hq2_equi_patch.psd</filename>
+            <type>image</type>
+            <blurintensity>10</blurintensity>
+            <lastmodified>2020-10-26T16:25:57</lastmodified>
+          </imagepatch>
+        </patch>
         <type>equirectangular</type>
         <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/Render/10-05/Closeup-hq2_equi.tif</filename>
         <videotype>equi</videotype>
@@ -475,6 +490,37 @@
           <clickmode>none</clickmode>
           <handcursor>0</handcursor>
           <previewfile>10-12-Tasse-Animation_preview.jpg</previewfile>
+        </sound>
+        <sound>
+          <position>
+            <pan>-0.45</pan>
+            <tilt>-3.73</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>34.26</fov>
+            <stretch>100</stretch>
+            <dimx>496</dimx>
+            <dimy>496</dimy>
+          </videorect>
+          <type>image</type>
+          <id>Element01</id>
+          <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/PSD/VIDEOOUT/Vertuo-Mask.png</filename>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <handcursor>0</handcursor>
         </sound>
       </sounds>
       <id>node10</id>
@@ -868,6 +914,37 @@
           <clickmode>playstop</clickmode>
           <handcursor>1</handcursor>
           <previewfile>backrec.jpg</previewfile>
+        </sound>
+        <sound>
+          <position>
+            <pan>-6.07</pan>
+            <tilt>-12.17</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>44.73</fov>
+            <stretch>100</stretch>
+            <dimx>1088</dimx>
+            <dimy>1088</dimy>
+          </videorect>
+          <type>image</type>
+          <id>Element02</id>
+          <filename>C:/Users/novoselov/Downloads/20200925_Nespresso_Showroom/20200925_Nespresso_Showroom/AE/stills/recycle-mask-01.png</filename>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>1</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>none</clickmode>
+          <handcursor>0</handcursor>
         </sound>
       </sounds>
       <id>node11</id>
