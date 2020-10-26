@@ -84,7 +84,7 @@
         <source url="media/10-12-Tasse-Animation.mp4"/>
       </video>
       <image rotz="0.000" pan="-0.450" tilt="-3.730" rotx="0.000" height="496" clickmode="0" width="496" id="Element01" stretch="1.000" fov="34.260" roty="0.000" handcursor="0">
-        <source url="media/Vertuo-Mask.png"/>
+        <source url="media/Vertuo-Mask3.png"/>
       </image>
     </media>
     <transition type="crossdissolve" zoomin="2" enabled="1" blendtime="0.3" zoomfov="40" zoomout="0" zoomoutpause="1" softedge="0" zoomspeed="2" zoomafterinfov="110" zoomafteroutfov="40" blendcolor="0x000000"/>
