@@ -138,6 +138,7 @@
       <polystyle backgroundcolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
       <hotspot description="" skinid="ht_node_enter" title="" target="" pan="-162.67" tilt="-7.88" url="{node10}" id="Point02"/>
       <hotspot description="" skinid="ht_node_enter_recycle" title="" target="" pan="-183.92" tilt="-8.4" url="{node11}" id="Point01"/>
+      <hotspot description="" skinid="ht_node_b2b" title="" target="" pan="-179.86" tilt="-16.43" url="{node12}" id="Point03"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomin="2" enabled="1" blendtime="0.3" zoomfov="40" zoomout="0" zoomoutpause="1" softedge="0" zoomspeed="2" zoomafterinfov="110" zoomafteroutfov="40" blendcolor="0x000000"/>
